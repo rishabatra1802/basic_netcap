@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>NetCap: Basic Netcat-like Remote Shell in Python</title>
+
 </head>
 <body>
     <h1>🛠️ NetCap: Basic Netcat-like Remote Shell in Python</h1>
